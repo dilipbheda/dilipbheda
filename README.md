@@ -2,15 +2,14 @@
 <h3 align="center">WordPress Developer🌟.</h3>
 
 <br>
-
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dilipbheda&label=Profile%20views&color=0e75b6&style=flat"
+    alt="dilipbheda" /> 
+  </p>
+<br>
 <p><img align="center"
     src="https://github-profile-trophy.vercel.app/?username=dilipbheda&theme=dark"
     alt="dilipbheda" 
     bg_color=#808080/></p>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dilipbheda&label=Profile%20views&color=0e75b6&style=flat"
-    alt="dilipbheda" /> 
-  </p>
 
 <br>
 
