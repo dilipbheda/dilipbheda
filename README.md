@@ -101,7 +101,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilipbheda&theme=dark&background=0d1117" alt="dilipbheda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilipbheda&theme=dark" alt="dilipbheda" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
