@@ -89,13 +89,10 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipbheda&show_icons=true&theme=dark"
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilipbheda&count_private=true&show_icons=true&theme=dark" alt="dilipbheda" />
+  <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dilipbheda&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="dilipbheda" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilipbheda&count_private=true&show_icons=true&theme=dark" alt="dilipbheda" /></p>
-
-<br>
+    bg_color=#808080/>
+</p>
