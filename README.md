@@ -89,8 +89,13 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p>![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=dilipbheda&show_icons=true&theme=dark)</p>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilipbheda&show_icons=true&theme=dark"
+    alt="dilipbheda" 
+    bg_color=#808080/></p>
 
 <br>
 
-<p>[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dilipbheda&count_private=true&show_icons=true&theme=dark)](https://github.com/dilipbheda/github-readme-stats)</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilipbheda&count_private=true&show_icons=true&theme=dark" alt="dilipbheda" /></p>
+
+<br>
