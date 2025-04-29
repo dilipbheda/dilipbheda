@@ -6,12 +6,6 @@
     alt="dilipbheda" /> 
   </p>
 <br>
-<p><img align="center"
-    src="https://github-profile-trophy.vercel.app/?username=dilipbheda&theme=dark"
-    alt="dilipbheda" 
-    bg_color=#808080/></p>
-
-<br>
 
 <p><img align="right" src="https://github.com/dilipbheda/dilipbheda/blob/main/animation_500_kxa883sd.gif" alt="dilipbheda" /></p>
 
@@ -89,6 +83,7 @@
 <br>
 
 <h3>Statistical Data :-</h3>
+![Metrics](/github-metrics.svg)
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilipbheda&count_private=true&show_icons=true&theme=dark" alt="dilipbheda" />
 </p>
