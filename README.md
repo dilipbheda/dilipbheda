@@ -89,9 +89,7 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-<p>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilipbheda&theme=dark)
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilipbheda&theme=dark)
 <p>
     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dilipbheda&theme=dark)
 </p>
