@@ -1,7 +1,7 @@
 name: GitHub Metrics
 on:
   schedule: [{ cron: "0 0 * * *" }]  # Runs every day at midnight UTC
-  push: { branches: ["main"] }
+  push: { branches: ["main", "master"] }
 
 jobs:
   metrics:
