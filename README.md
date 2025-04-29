@@ -90,15 +90,18 @@
 
 <h3>Statistical Data :-</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilipbheda&count_private=true&show_icons=true&theme=dark" alt="dilipbheda" />
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilipbheda&theme=dark)
+</p>
+<p>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dilipbheda&theme=dark)
 </p>
 
 <br>
 
 <h3>Top Languages Used :-</h3>
 <p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dilipbheda&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="dilipbheda" 
-    bg_color=#808080/>
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilipbheda&theme=dark)
+</p>
+<p>
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dilipbheda&theme=dark)
 </p>
