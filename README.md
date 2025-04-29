@@ -83,7 +83,7 @@
 <br>
 
 <h3>Statistical Data :-</h3>
-![Metrics](/github-metrics.svg)
+![Metrics](/metrics.svg)
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dilipbheda&count_private=true&show_icons=true&theme=dark" alt="dilipbheda" />
 </p>
